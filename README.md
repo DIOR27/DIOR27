@@ -39,7 +39,7 @@ Welcome to my GitHub profile. I love transforming ideas into scalable applicatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" height="40" alt="Odoo" style="filter: drop-shadow(0 0 0 #EAEAEA) drop-shadow(1px 1px 0 #EAEAEA) drop-shadow(-1px -1px 0 #EAEAEA) drop-shadow(-1px 1px 0 #EAEAEA) drop-shadow(1px -1px 0 #EAEAEA);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/1200px-Odoo_logo.svg.png" height="40" alt="Odoo" />
 </p>
 
 ### Tools & IDEs
